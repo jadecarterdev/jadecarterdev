@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I’m Jade!
 
-<!--
-**jadecarterdev/jadecarterdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Turning ideas into projects that people can actually use 🚀  
 
-Here are some ideas to get you started:
+I’m a **software developer** passionate about building functional, user-friendly applications and experiences. Writing clean, thoughtful code is what makes me excited to start the day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+When I’m not in front of a screen, I’m usually exploring **new hobbies**, getting lost in a good book, or finding ways to make life more fun and creative.
+
+---
+
+### 🌟 Fun Things About Me
+
+☕ **Coffee Explorer** – I love experimenting with new flavor combinations.  
+🐶 **Dog Companion** – My loyal canine ensures every day has a little adventure.  
